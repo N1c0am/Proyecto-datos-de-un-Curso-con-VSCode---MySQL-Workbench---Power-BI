@@ -1,0 +1,131 @@
+{
+  "alumno": [
+    {
+      "alu_apellido_alumno": "Saez",
+      "alu_nombre_alumno": "Carla",
+      "asig_nombre": "Algebra y Geometria",
+      "nota": "7.0"
+    },
+    {
+      "alu_apellido_alumno": "Saez",
+      "alu_nombre_alumno": "Carla",
+      "asig_nombre": "Algebra y Geometria",
+      "nota": "7.0"
+    },
+    {
+      "alu_apellido_alumno": "Saez",
+      "alu_nombre_alumno": "Carla",
+      "asig_nombre": "Algebra y Geometria",
+      "nota": "7.0"
+    },
+    {
+      "alu_apellido_alumno": "Riquelme",
+      "alu_nombre_alumno": "Juan",
+      "asig_nombre": "Gramatica y Ortografia",
+      "nota": "7.0"
+    },
+    {
+      "alu_apellido_alumno": "Riquelme",
+      "alu_nombre_alumno": "Juan",
+      "asig_nombre": "Gramatica y Ortografia",
+      "nota": "7.0"
+    },
+    {
+      "alu_apellido_alumno": "Riquelme",
+      "alu_nombre_alumno": "Juan",
+      "asig_nombre": "Algebra y Geometria",
+      "nota": "6.5"
+    },
+    {
+      "alu_apellido_alumno": "Riquelme",
+      "alu_nombre_alumno": "Juan",
+      "asig_nombre": "Algebra y Geometria",
+      "nota": "6.5"
+    },
+    {
+      "alu_apellido_alumno": "Riquelme",
+      "alu_nombre_alumno": "Juan",
+      "asig_nombre": "Algebra y Geometria",
+      "nota": "6.5"
+    },
+    {
+      "alu_apellido_alumno": "Riquelme",
+      "alu_nombre_alumno": "Juan",
+      "asig_nombre": "Algebra y Geometria",
+      "nota": "6.5"
+    },
+    {
+      "alu_apellido_alumno": "Riquelme",
+      "alu_nombre_alumno": "Juan",
+      "asig_nombre": "Algebra y Geometria",
+      "nota": "6.0"
+    },
+    {
+      "alu_apellido_alumno": "Riquelme",
+      "alu_nombre_alumno": "Juan",
+      "asig_nombre": "Algebra y Geometria",
+      "nota": "6.0"
+    },
+    {
+      "alu_apellido_alumno": "Saez",
+      "alu_nombre_alumno": "Carla",
+      "asig_nombre": "Gramatica y Ortografia",
+      "nota": "5.4"
+    },
+    {
+      "alu_apellido_alumno": "Saez",
+      "alu_nombre_alumno": "Carla",
+      "asig_nombre": "Gramatica y Ortografia",
+      "nota": "5.4"
+    },
+    {
+      "alu_apellido_alumno": "Saez",
+      "alu_nombre_alumno": "Carla",
+      "asig_nombre": "Gramatica y Ortografia",
+      "nota": "5.4"
+    },
+    {
+      "alu_apellido_alumno": "Riquelme",
+      "alu_nombre_alumno": "Juan",
+      "asig_nombre": "Algebra y Geometria",
+      "nota": "5.3"
+    },
+    {
+      "alu_apellido_alumno": "Riquelme",
+      "alu_nombre_alumno": "Juan",
+      "asig_nombre": "Algebra y Geometria",
+      "nota": "5.3"
+    },
+    {
+      "alu_apellido_alumno": "Saez",
+      "alu_nombre_alumno": "Carla",
+      "asig_nombre": "Algebra y Geometria",
+      "nota": "5.0"
+    },
+    {
+      "alu_apellido_alumno": "Saez",
+      "alu_nombre_alumno": "Carla",
+      "asig_nombre": "Algebra y Geometria",
+      "nota": "5.0"
+    },
+    {
+      "alu_apellido_alumno": "Saez",
+      "alu_nombre_alumno": "Carla",
+      "asig_nombre": "Algebra y Geometria",
+      "nota": "5.0"
+    },
+    {
+      "alu_apellido_alumno": "Riquelme",
+      "alu_nombre_alumno": "Juan",
+      "asig_nombre": "Gramatica y Ortografia",
+      "nota": "4.0"
+    },
+    {
+      "alu_apellido_alumno": "Riquelme",
+      "alu_nombre_alumno": "Juan",
+      "asig_nombre": "Gramatica y Ortografia",
+      "nota": "4.0"
+    }
+  ],
+  "mensaje": "Consulta de las alumnos"
+}
